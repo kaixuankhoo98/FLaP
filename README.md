@@ -7,3 +7,5 @@ Plan is: back-end in PHP or C#, front-end in Vue.js
 This is the tech stack I use at work as a software developer, so I want some experience building an app from scratch
 
 Keep your eye on this page!
+
+:)
